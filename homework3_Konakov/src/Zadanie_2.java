@@ -7,6 +7,9 @@ import java.util.Map;
 
 
 public class Zadanie_2 {
+    /*
+    Задание 2
+    */
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     public Zadanie_2(String[] name, int[] nomera) throws IOException {
         HashMap<Integer, String> map = new HashMap<>();
