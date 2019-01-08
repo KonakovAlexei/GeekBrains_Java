@@ -6,6 +6,9 @@ import java.util.Map;
 public class Zadanie_1 {
 
     public Zadanie_1(String[] z) {
+        /*
+        Задание 1
+        */
 
         HashMap<String, Integer> result = new HashMap();
 
